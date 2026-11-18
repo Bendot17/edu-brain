@@ -1,1 +1,1 @@
-# edu-brain
+game-kecerdasan-pendidikan
